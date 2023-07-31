@@ -1,0 +1,8 @@
+
+# deleting branches when I am done
+
+# How to delete local branch
+git branch -d branch-name
+
+# How to delete remote branch
+git push origin -d branch-name
